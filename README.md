@@ -8,7 +8,7 @@ Installation:
 
 You can download it by using 'git clone' command
 or download the zip file and extract it.
-After that just run the brightness.py file by 
+After that just run the brightness.py file by
 
 Current Features:
 Can change the brightness
@@ -20,6 +20,5 @@ python brightness.py
 ![Screenshot](screenshot.png)
 
 Note: Currently it works only on Linux and may have bugs but will be updated soon.
-
 
 
