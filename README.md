@@ -10,6 +10,11 @@ You can download it by using 'git clone' command
 or download the zip file and extract it.
 After that just run the brightness.py file by 
 
+Current Features:
+Can change the brightness
+Can enable night light
+Supports multiple monitors
+
 python brightness.py
 
 ![Screenshot](screenshot.png)
