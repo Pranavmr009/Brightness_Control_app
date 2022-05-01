@@ -12,6 +12,8 @@ After that just run the brightness.py file by
 
 python brightness.py
 
+![Screenshot](screenshot.png)
+
 Note: Currently it works only on Linux and may have bugs but will be updated soon.
 
 
