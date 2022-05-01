@@ -24,5 +24,6 @@ def brightness(percent, display):
 def enable_night_light():
     os.system('gsettings set org.gnome.settings-daemon.plugins.color night-light-enabled true')
 
+
 def disable_night_light():
     os.system('gsettings set org.gnome.settings-daemon.plugins.color night-light-enabled false')
